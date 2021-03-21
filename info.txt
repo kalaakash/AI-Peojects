@@ -1,0 +1,4 @@
+This is a file which includes useful projects which can be done : 
+
+Here is a link which can be useful 
+ - https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/
